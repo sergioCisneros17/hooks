@@ -28,3 +28,5 @@ with open(log, "a", encoding="utf-8") as f:
 sys.exit(0)
 
 # Este es un comentario de una sola línea
+# hola 2hfdshiufhsduhfisdhfs
+#fnjksdhjfsdhj
